@@ -1,9 +1,9 @@
-# PHMAP2023Poster
-PHMAP2023 Poster Repository
-Poster Title: Sparse Modeling of Wavelet Features for Fault Classification and Regression in Spacecraft Propulsion Systems
-​
+# PHMAP2023Poster<br>
+PHMAP2023 Poster Repository<br><br>
+Poster Title: Sparse Modeling of Wavelet Features for Fault Classification and Regression in Spacecraft Propulsion Systems<br>
 Authors: Joseph Cohen<sup>1,2</sup>, Andreas Rauch<sup>1,3</sup>, Jennifer Li<sup>1,4</sup>, Bernardo Modenesi<sup>1,5,6</sup>, James Boyko<sup>1,7</sup>, Yutong Wang<sup>1,6</sup>, Eunshin Byon<sup>8</sup>, and Xun Huan<sup>2</sup>
-​
+​<br>
+<br>
 [1] Michigan Institute for Data Science<br>
 [2] Department of Mechanical Engineering<br>
 [3] Department of Aerospace Engineering<br>
@@ -13,11 +13,11 @@ Authors: Joseph Cohen<sup>1,2</sup>, Andreas Rauch<sup>1,3</sup>, Jennifer Li<su
 [7] Departments of Ecology and Evolutionary Biology<br>
 [8] Department of Industrial Engineering and Operations<br>
 ​
-Dataset Title: PHMAP23: dynamic response of a spacecraft propulsion system
+<br>Dataset Title: PHMAP23: dynamic response of a spacecraft propulsion system<br>
 ​
-Dataset Provider: Japan Aerospace Exploration Agency (JAXA)
+<br>Dataset Provider: Japan Aerospace Exploration Agency (JAXA)
 ​
-Key Point:
+<br><br>Key Point:
 - This solution achieved an accuracy of 92.98% and an overall position of 8th place within the competition.
 - Sparse modeling of wavelet features achieve high accuracy for fault classification and regression in spacecraft propulsion systems
 ​
@@ -49,4 +49,4 @@ We discarded 100 case instances due to their potential to skew results. Negative
 Related publication(s):
 ...
 ​
-Acknowledgements: This work is supported by the Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship, a Schmidt Futures program.
+<br>Acknowledgements: This work is supported by the Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship, a Schmidt Futures program.
